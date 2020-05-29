@@ -1,0 +1,28 @@
+{
+  "type": "array",
+  "properties": {
+    "login": {
+      "type": "string",
+      "maxLength": 30
+    },
+    "nome": {
+      "type": "string",
+      "maxLength": 70
+    },
+    "email": {
+      "type": "string",
+      "maxLength": 70
+    },
+    "senha": {
+      "type": "string",
+      "maxLength": 20
+    }
+  },
+  "required": [
+    "login",
+    "nome",
+    "email",
+    "tipo",
+    "senha"
+  ]
+}

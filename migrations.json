@@ -1,0 +1,5 @@
+{
+  "name": "Migrations",
+  "migrations_namespace": "Migrations",
+  "migrations_directory": "/migrations"
+}
